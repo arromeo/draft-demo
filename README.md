@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This was an initial attempt to build a rich-text-editor on top of Draft.js. This demo is very basic and incomplete because the actual implementation was done as part of a commercial project.
 
 ## Available Scripts
 
